@@ -79,7 +79,7 @@ public class Main {
             case 9:
             case 10:
             case 11:
-                System.out.println("Осень");
+                System.out.println(" сейчас осень");
                 break;
         }
     }
